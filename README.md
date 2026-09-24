@@ -234,4 +234,4 @@ This repository serves as the official landing page for The Crew. The software i
 **Get the most recent version of The Crew today!**
 
 ---
-**Last updated:** 2026-09-24 13:12:07 UTC
+**Last updated:** 2026-09-24 18:11:00 UTC
